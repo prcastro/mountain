@@ -6,6 +6,10 @@ FlappyBird clone for the original Game Boy, fully written in assembly
 
 ## How to play
 
+Download the latest version of the game (`mountain.gb`) from the [releases page](https://github.com/prcastro/mountain/releases) and open it on any Game Boy emulator.
+
+### From source
+
 You will need to [install RGBDS](https://rgbds.gbdev.io/install). On windows you can run `build.bat` from the repository root folder. On other platforms run:
 
 ```
