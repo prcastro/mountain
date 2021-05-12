@@ -19,3 +19,7 @@ rgbfix -v -p 0 build/mountain.gb
 ```
 
 Your rom will be available on `build/mountain.gb`. You can open it on any Game Boy emulator.
+
+## Credits
+
+Inspired by [flappy-boy-asm](https://github.com/bitnenfer/flappy-boy-asm). Art by [Fernanda Peralta](https://www.instagram.com/fernandaperalta_ilustracao/?hl=en).
